@@ -6,7 +6,7 @@ void setup(){
   pinMode(LED, OUTPUT); 
 } 
 void loop(){ 
-  digitalWrite(LED, HIGH);  // enciende 
+  digitalWrite(LED, HIGH);  // enciende git 
   delay(500); 
   digitalWrite(LED, LOW);   // apaga 
   delay(500); 
